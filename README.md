@@ -64,8 +64,8 @@ Reward = Goal Achievement - Overwatering Penalty
 ## PYTHON REPRESENTATION:
 
 ```
-# Name : Joel John Jobinse
-# Reg No : 212223240062
+# Name : Prem R 
+# Reg No : 212223240124
 mdp = {
     0: {
         0: [(0.8, 1, 1, 0), (0.2, 2, 1, 0)],  
